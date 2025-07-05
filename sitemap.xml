@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://rdejonck.github.io/ejpi/aboutme.html</loc>
+<lastmod>2025-07-05T19:55:42.951Z</lastmod>
+</url>
+<url>
+<loc>https://rdejonck.github.io/ejpi/explore/projects.html</loc>
+<lastmod>2025-07-05T19:55:42.951Z</lastmod>
+</url>
+<url>
+<loc>https://rdejonck.github.io/ejpi/explore/reading_list.html</loc>
+<lastmod>2025-07-05T19:55:42.951Z</lastmod>
+</url>
+<url>
 <loc>https://rdejonck.github.io/ejpi/index.html</loc>
-<lastmod>2025-07-04T03:29:14.542Z</lastmod>
+<lastmod>2025-07-05T19:55:42.951Z</lastmod>
 </url>
 </urlset>
